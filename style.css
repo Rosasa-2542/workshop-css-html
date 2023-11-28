@@ -69,7 +69,7 @@ li{
 }
 
 .item:hover{
-    background: rgb(184, 255, 184);
+    background: rgb(53, 173, 53);
     color: brown;
     text-align: center;
 }
@@ -83,9 +83,9 @@ li{
 }
 
 .box {
-    color: white;
+    color: rgb(72, 58, 58);
     width: 100 px;
-    background-color: rgb(184, 255, 184);
+    background-color: rgb(166, 205, 166);
     border-radius: 5px;
     padding: 5px;
     margin-top: 8px;
@@ -93,7 +93,7 @@ li{
 }
 
 .box:hover{
-    background: rgb(184, 255, 184);
+    background: rgb(3, 7, 3);
 }
 
 .menu{
@@ -103,14 +103,14 @@ li{
 }
 
 h4{
-    font-family: "Lucida Console", "Courier New", monospace;
-    font-size: 30px;
-    line-height: 50px;
-    color: rgb(184, 255, 184);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    line-height: 30px;
+    color: rgb(108, 180, 108);
 }
 
 .description{
-    margin: 50px;
+    margin: 30px;
 }
 
 @media (max-width: 640px){
